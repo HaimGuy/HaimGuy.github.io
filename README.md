@@ -5,7 +5,6 @@
 <p align="center">
   <img src="./Guyha.jpeg" alt="Guy Haim" width="150">
 </p>
-![Atmosphere Background](./back.jpeg)
 
 **Healthcare business expert turned biology researcher, now blending science with strategy**
 
