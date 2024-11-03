@@ -1,47 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        /* Container for positioning the images */
-        .background-container {
-            position: relative;
-            width: 100%;
-            max-width: 800px; /* Adjust max-width as needed */
-            margin: auto;
-            text-align: center;
-        }
+# Guy Haim
 
-        /* Background image styling */
-        .background-image {
-            width: 100%;
-            border-radius: 10px; /* Optional: rounded corners for background */
-        }
+![Atmosphere Background](./back.jpeg)
 
-        /* Profile image styling to overlay */
-        .profile-image {
-            position: absolute;
-            top: 20px; /* Adjust vertical positioning as needed */
-            left: 50%;
-            transform: translateX(-50%);
-            width: 150px; /* Keep the width the same */
-            border-radius: 50%; /* Circular profile image */
-            border: 3px solid white; /* Optional: white border around profile picture */
-        }
-    </style>
-</head>
-<body>
+<p align="center">
+  <img src="./Guyha.jpeg" alt="Guy Haim" width="150">
+</p>
 
-<div class="background-container">
-    <img src="./back.jpeg" alt="Atmosphere Background" class="background-image">
-    <img src="./Guyha.jpeg" alt="Guy Haim" class="profile-image">
-</div>
-
-<h1>Guy Haim</h1>
-
-<p><strong>Healthcare business expert turned biology researcher, now blending science with strategy</strong></p>
-
-</body>
-</html>
+**Healthcare business expert turned biology researcher, now blending science with strategy**
 
 [LinkedIn](https://www.linkedin.com/in/guy-haim) | [GitHub](https://github.com/HaimGuy)
 
