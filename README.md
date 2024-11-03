@@ -1,10 +1,10 @@
 # Guy Haim
 
-![Atmosphere Background](./back.jpeg)
-
 <p align="center">
-  <img src="./Guyha.jpeg" alt="Guy Haim" width="150">
+  <img src="./profile.jpg" alt="Guy Haim" width="150">
 </p>
+
+![Atmosphere Background](./atmosphere.jpg)
 
 **Healthcare business expert turned biology researcher, now blending science with strategy**
 
