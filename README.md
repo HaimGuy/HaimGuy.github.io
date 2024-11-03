@@ -1,5 +1,8 @@
 # Guy Haim
 
+![Atmosphere Background](./back.jpeg)
+
+![Guy Haim](./Guyha.jpeg)
 **Healthcare business expert turned biology researcher, now blending science with strategy**
 
 [LinkedIn](https://www.linkedin.com/in/guy-haim) | [GitHub](https://github.com/HaimGuy)
