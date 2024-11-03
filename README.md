@@ -1,6 +1,6 @@
 # HaimGuy.github.io
 # Welcome 
-some text **emphisised** and __italic__ text
+some text **emphisised** and _italic_ text
 
 * guy
 * haim
