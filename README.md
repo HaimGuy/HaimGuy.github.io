@@ -1,6 +1,6 @@
 # Guy Haim
 
-![Atmosphere Background](./atmosphere.jpg)
+![Atmosphere Background](./back.jpeg)
 
 <p align="center">
   <img src="./Guyha.jpeg" alt="Guy Haim" width="150">
