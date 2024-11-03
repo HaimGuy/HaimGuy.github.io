@@ -23,6 +23,10 @@ I'm currently a PhD candidate at the [Prof. Eran Hornstein's Lab](https://www.we
 - **Board Member** - [Gynica](https://gynica.com/)
 
 ---
+### Publications
+![publications page](papers)
+
+---
 
 ### Connect with Me
 [LinkedIn](https://www.linkedin.com/in/guy-haim) | [GitHub](https://github.com/HaimGuy)
