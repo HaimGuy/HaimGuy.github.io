@@ -1,46 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        /* Background image styling */
-        .background-image {
-            width: 100%;
-            display: block;
-            margin-bottom: 20px;
-        }
+# Guy Haim
 
-        /* Container for main content */
-        .content-container {
-            display: flex;
-            align-items: center;
-            max-width: 800px; /* Optional: controls max width of content */
-            margin: auto;
-        }
-
-        /* Profile image styling for inline positioning */
-        .profile-image {
-            width: 150px; /* Adjust size as needed */
-            border-radius: 50%; /* Circular profile picture */
-            margin-left: 20px; /* Space between text and profile picture */
-        }
-    </style>
-</head>
-<body>
-
-<!-- Background Image at the Top -->
-<img src="./back.jpeg" alt="Atmosphere Background" class="background-image">
-
-<!-- Main Content with Profile Image Inline to the Right -->
-<div class="content-container">
-    <div>
-        <h1>Guy Haim</h1>
-        <p><strong>Healthcare business expert turned biology researcher, now blending science with strategy</strong></p>
-    </div>
-    <img src="./Guyha.jpeg" alt="Guy Haim" class="profile-image">
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; text-align: center;">
+  <img src="./back.jpeg" alt="Atmosphere Background" style="width: 100%; display: block;">
+  <img src="./Guyha.jpeg" alt="Guy Haim" width="150" style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); border-radius: 50%; border: 3px solid white;">
 </div>
-
-</body>
-</html>
 
 **Healthcare business expert turned biology researcher, now blending science with strategy**
 
@@ -49,7 +12,7 @@
 ---
 
 ### About Me
-I'm currently a PhD candidate at the [Prof. Eran Hornstein's Lab](https://www.weizmann.ac.il/molgen/hornstein/home) researching the interactions between age-differentially expressed genes and ALS genetic backgrounds.
+I'm a first year PhD student at the [Prof. Eran Hornstein's Lab](https://www.weizmann.ac.il/molgen/hornstein/home), interested in the interactions between age-differentially expressed genes and ALS genetic backgrounds.
 
 ---
 
