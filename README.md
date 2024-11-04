@@ -23,7 +23,7 @@ I'm a first year PhD student at the [Prof. Eran Hornstein's Lab](https://www.wei
 
 ---
 ### Publications
-![publications page](papers)
+![publications page](https://haimguy.github.io/papers)
 
 ---
 
