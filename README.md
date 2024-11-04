@@ -17,13 +17,9 @@ I'm a first year PhD student at the [Prof. Eran Hornstein's Lab](https://www.wei
 ---
 
 ### Previous Roles
-- **VP of Business Development** - [AceTech](https://www.acemanan-tech.com/)
-- **VP of Business Development** - [Tikkun Olam](https://tikun-olam.org.il/)
+- **Business Development** at [AceTech](https://www.acemanan-tech.com/)
+- **Business Development** at [Tikkun Olam](https://tikun-olam.org.il/)
 - **Board Member** - [Gynica](https://gynica.com/)
-
----
-### Publications
-![publications page](https://haimguy.github.io/papers)
 
 ---
 
