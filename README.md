@@ -1,10 +1,46 @@
-# Guy Haim
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        /* Background image styling */
+        .background-image {
+            width: 100%;
+            display: block;
+            margin-bottom: 20px;
+        }
 
-![Atmosphere Background](./back.jpeg)
+        /* Container for main content */
+        .content-container {
+            display: flex;
+            align-items: center;
+            max-width: 800px; /* Optional: controls max width of content */
+            margin: auto;
+        }
 
-<p align="center">
-  <img src="./Guyha.jpeg" alt="Guy Haim" width="150">
-</p>
+        /* Profile image styling for inline positioning */
+        .profile-image {
+            width: 150px; /* Adjust size as needed */
+            border-radius: 50%; /* Circular profile picture */
+            margin-left: 20px; /* Space between text and profile picture */
+        }
+    </style>
+</head>
+<body>
+
+<!-- Background Image at the Top -->
+<img src="./back.jpeg" alt="Atmosphere Background" class="background-image">
+
+<!-- Main Content with Profile Image Inline to the Right -->
+<div class="content-container">
+    <div>
+        <h1>Guy Haim</h1>
+        <p><strong>Healthcare business expert turned biology researcher, now blending science with strategy</strong></p>
+    </div>
+    <img src="./Guyha.jpeg" alt="Guy Haim" class="profile-image">
+</div>
+
+</body>
+</html>
 
 **Healthcare business expert turned biology researcher, now blending science with strategy**
 
