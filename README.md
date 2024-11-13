@@ -23,7 +23,7 @@ I'm a first year PhD student at the [Prof. Eran Hornstein's Lab](https://www.wei
 
 ---
 
-### Personal Journey
+### Personal Journey 
 Last year, my family and I spent an unforgettable year in Phuket, Thailand. It was truly the best time of our lives, filled with adventure, cultural experiences, and lasting memories.
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
